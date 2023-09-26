@@ -5,7 +5,7 @@ export function Main({ name = "Extension" }) {
 
   return (
     <div>
-      <h1>
+      <h1 className=" text-blue-600">
         Bonjour ! 
       </h1>
       
